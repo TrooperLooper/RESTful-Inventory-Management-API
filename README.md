@@ -18,7 +18,7 @@ This project was created as a learning exercise to understand:
 
 This is a simple inventory management system for a grocery store, where you can store items with names and quantities. The database supports full CRUD operations (Create, Read, Update, Delete) through RESTful API endpoints.
 
-**Collection:** `items`
+**Collection:** `items` 
 
 ### Data Structure
 
